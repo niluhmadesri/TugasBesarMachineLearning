@@ -209,3 +209,4 @@ Model CNN berhasil dilatih dan diimplementasikan untuk mengklasifikasikan gambar
 ---
 
 
+Link Google Colab: https://colab.research.google.com/drive/1lCGa4wpiRoYuXwkjU61mfU3z4SDaydUq?usp=sharing 
